@@ -1,3 +1,11 @@
+# Dawid Wolak => Portfolio
+
+To jest mój pierwszy testowy projekt w React (spisany z neta "https://www.youtube.com/watch?v=LGdPMf-SgBA&t=2854s"), celem było zaznajomienie się z środowiskiem, hierarchią plików i eksperymentowaniem z tym frameworkiem.
+
+Kanał youtubera, od którego się uczyłem: PedroTech
+
+-Dawid Wolak => Styczeń 2026 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
