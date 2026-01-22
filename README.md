@@ -1,10 +1,11 @@
-# Dawid Wolak => Portfolio
+# Dawid Wolak => Portfolio https://Dozzy404.github.io/Portfolio
 
-To jest mój pierwszy testowy projekt w React (spisany z neta "https://www.youtube.com/watch?v=LGdPMf-SgBA&t=2854s"), celem było zaznajomienie się z środowiskiem, hierarchią plików i eksperymentowaniem z tym frameworkiem.
+To jest mój pierwszy testowy projekt w React 
+(spisany z neta "https://www.youtube.com/watch?v=LGdPMf-SgBA&t=2854s"), celem było zaznajomienie się z środowiskiem, hierarchią plików i eksperymentowaniem z tym frameworkiem.
 
 Kanał youtubera, od którego się uczyłem: PedroTech
 
--Dawid Wolak => Styczeń 2026 
+Dawid Wolak => Styczeń 2026 
 
 # React + Vite
 
