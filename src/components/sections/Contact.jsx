@@ -25,10 +25,9 @@ export const Contact = () => {
     return (
         <section
             id="contact"
-            className="min-h-9/12 flex items-center justify-center py-20"
-        >
+            className="w-full px-4 mx-auto sm:w-11/12 md:w-10/12 lg:w-4/5 xl:w-3/4">
             <RevealOnScroll>
-                <div className="px-4 w-4xl">
+                <div className="w-full max-w-5xl min-w-[320px] mx-auto px-4">
 
                     {/* Nagłówek z gradientem, rozciągnięty na całą szerokość */}
                     <h2 className="text-4xl font-bold mb-12 text-center w-full">
